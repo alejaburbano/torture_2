@@ -1,0 +1,14 @@
+{
+  "name": "quote",
+  "version": "1.0.0",
+  "description": "a quote componet",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Alejandra Burbano",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
